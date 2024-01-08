@@ -20,5 +20,17 @@ Graph Algorithms visualizer project which visualizes Different types of graph al
 - Topological Sorting
     - Kahn's Algorithm
 
+# How To Run
 
-You can view the Live version on 
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ShaanManchanda/Graph-Algorithms-Visualizer.git
+2. **Navigate to the project directory:**
+    ```bash
+    cd Graph-Algorithms-Visualizer
+3. **Run the application:**
+    -Locate the index.html file in the project directory.
+    -Right-click on **index.html** and choose "Open with" your preferred web browser.
+    -Alternatively, you can directly open the file using your browser by double-clicking on it.
