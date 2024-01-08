@@ -1,6 +1,7 @@
 # Graph Algorithms Visualizer
 
-![Graph Algorithms Visualizer](path/to/your/image.png)
+![Graph Algorithms Visualizer](https://raw.githubusercontent.com/ShaanManchanda/Graph-Algorithms-Visualizer/main/Algo.png)
+
 
 Graph Algorithms Visualizer is a project that visualizes different types of graph algorithms on an MxN grid.
 
